@@ -1,1 +1,1 @@
-For the UFO Sighting analysis, I created a basic HTML web pages and used index.html file. Using the UFO dataset provided, I wrote a code that appends a table to my webpahe and then addsnew rows of data for each UFO sighting. 
+For the UFO Sighting analysis, I created a basic HTML web pages and used index.html file. Using the UFO dataset provided, I wrote a code that appends a table to my webpage and then adds new rows of data for each UFO sighting. 
